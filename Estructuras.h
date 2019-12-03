@@ -1,6 +1,5 @@
 #ifndef COMPLEX_H
 #define COMPLEX_H
-
 #include <stdio.h>
 
 typedef struct _monkey mono;
